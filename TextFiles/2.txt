@@ -1,0 +1,7 @@
+TCS Limited was founded in 1968 by division of Tata Sons Limited.[19] Its early contracts included punched card services to sister company TISCO (now Tata Steel), working on an Inter-Branch Reconciliation System for the Central Bank of India,[20] and providing bureau services to Unit Trust of India.
+
+In 1975, TCS delivered an electronic depository and trading system called SECOM for the Swiss company SIS SegaInterSettle (deutsch); it also developed System X for the Canadian Depository System and automated the Johannesburg Stock Exchange.[21] It associated with a Swiss partner, TKS Teknosoft, which it later acquired.[22]
+
+In 1980, TCS established India's first dedicated software research and development centre, the Tata Research Development and Design Centre (TRDDC) in Pune.[23] In 1981, it established India's first client-dedicated offshore development centre, set up for clients Tandem. TCS later (1993) partnered with Canada-based software factory Integrity Software Corp, which TCS later acquired.
+
+In anticipation of the Y2K bug and the launch of a unified European currency (Euro), Tata Consultancy Services created the factory model for Y2K conversion and developed software tools which automated the conversion process and enabled third-party developer and client implementation.[24] Towards of end of 1999, TCS decided to offer Decision Support System (DSS) in the domestic market under its Corporate Vice President and Transformation Head Subbu Iyer. [25]
